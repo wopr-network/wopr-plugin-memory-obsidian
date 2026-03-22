@@ -28,7 +28,7 @@
   },
   "publishConfig": { "access": "public" },
   "files": ["dist"],
-  "keywords": ["wopr", "plugin", "memory", "obsidian", "recall"],
+  "keywords": ["wopr", "wopr-plugin", "plugin", "memory", "obsidian", "recall"],
   "author": "wopr-network",
   "license": "MIT",
   "repository": {
